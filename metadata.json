@@ -1,0 +1,6 @@
+{
+  "name": "Crystal Inn - Restaurant & Lodging",
+  "description": "Official website of Crystal Inn: Family-friendly restaurant and lodging services in Kanchrapara, West Bengal. Explore delicious menus, reserve rooms/tables, and view guest reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
